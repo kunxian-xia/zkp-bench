@@ -1,0 +1,6 @@
+[submodule "frameworks/bellperson"]
+	path = frameworks/bellperson
+	url = https://github.com/filecoin-project/bellperson
+[submodule "libs/ec-gpu"]
+	path = libs/ec-gpu
+	url = https://github.com/filecoin-project/ec-gpu.git
