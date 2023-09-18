@@ -4,3 +4,6 @@
 [submodule "libs/ec-gpu"]
 	path = libs/ec-gpu
 	url = https://github.com/filecoin-project/ec-gpu.git
+[submodule "libs/goldilocks"]
+	path = libs/goldilocks
+	url = https://github.com/0xpolygonhermez/goldilocks
