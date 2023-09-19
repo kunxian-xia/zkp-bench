@@ -10,3 +10,9 @@
 [submodule "libs/halo2curves"]
 	path = libs/halo2curves
 	url = https://github.com/kunxian-xia/halo2curves
+[submodule "applications/zkevm-proverjs"]
+	path = applications/zkevm-proverjs
+	url = https://github.com/0xpolygonhermez/zkevm-proverjs/
+[submodule "frameworks/pil-stark"]
+	path = frameworks/pil-stark
+	url = https://github.com/0xPolygonHermez/pil-stark
