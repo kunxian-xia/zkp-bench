@@ -7,3 +7,6 @@
 [submodule "libs/goldilocks"]
 	path = libs/goldilocks
 	url = https://github.com/kunxian-xia/goldilocks
+[submodule "libs/halo2curves"]
+	path = libs/halo2curves
+	url = https://github.com/kunxian-xia/halo2curves
